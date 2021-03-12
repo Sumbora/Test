@@ -1,1 +1,1 @@
-1{Banned:_MisterV_,Player25,MeinKleinesDing,Sumbora}
+1{Banned:_MisterV_,Player25,MeinKleinesDing}
