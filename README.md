@@ -1,1 +1,1 @@
-{Admins:Rqzzn,Sunbora}
+{Admins:Rqzzn,Sumbora,Kaltenstein}
