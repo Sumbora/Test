@@ -1,1 +1,1 @@
-{Admins:Rqzzn,Sumbora,Kaltenstein}
+{Banned:_MiserV_}
