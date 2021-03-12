@@ -1,1 +1,1 @@
-Admins{Admins : Rqzzn,Sunbora}
+{Admins:Rqzzn,Sunbora}
